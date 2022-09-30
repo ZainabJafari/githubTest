@@ -1,6 +1,7 @@
 console.log(' Hello github')
 
-let password = 1010
-let admin = 'Ali'
 
-console.log('välkommen');
+let password= 1234
+let admin = 'Admin'
+
+console.log('logga in');
